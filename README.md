@@ -89,6 +89,11 @@
 <details>
   <summary style="font-size: 16px;"><strong id="redis">Redis (전체 보기)</strong></summary>
 </details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="infra">Infra (전체 보기)</strong></summary>
+</details>
 
 ---
 
@@ -119,6 +124,7 @@
 - `vibe-coding/`: AI 기반 코딩 도구 활용 및 개발 워크플로우 자동화
 - `haproxy/`: HAProxy 로드밸런싱, 프록시 설정 및 트래픽 관리
 - `redis/`: Redis 데이터 구조, 캐싱 전략 및 운영 노하우
+- `infra/`: 서버 구축, 네트워크 설정, CI/CD 및 클라우드 인프라 운영
 
 **문서 내부 양식**
 

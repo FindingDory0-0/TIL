@@ -23,6 +23,66 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 </details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="mobile">Mobile (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="android">Android (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="ios">iOS (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="java">Java (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="web">Web (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="javascript">JavaScript (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="spring">Spring (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="react">React (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="vue">Vue.js (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="vibe-coding">Vibe Coding (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="haproxy">HAProxy (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="redis">Redis (전체 보기)</strong></summary>
+</details>
 
 ---
 
@@ -41,6 +101,18 @@
 - `n8n/`: 워크플로우 설계 및 노드 활용 전략
 - `python/`: 파이썬 문법 및 강의용 라이브러리 분석
 - `ai-agent/`: LLM 프롬프트 설계 및 에이전트 구축
+- `mobile/`: 모바일 앱 개발 공통 패턴 및 크로스플랫폼 이슈
+- `android/`: Android SDK, Kotlin/Java 기반 네이티브 앱 개발
+- `ios/`: iOS SDK, Swift/SwiftUI 기반 네이티브 앱 개발
+- `java/`: Java 문법, JVM 동작 원리 및 라이브러리 활용
+- `web/`: 웹 개발 공통 주제 (HTTP, 브라우저, 성능 최적화 등)
+- `javascript/`: JavaScript/TypeScript 문법 및 런타임 활용
+- `spring/`: Spring Boot/Framework 기반 백엔드 개발
+- `react/`: React 컴포넌트 설계, 상태 관리 및 훅 활용
+- `vue/`: Vue.js 컴포넌트 설계, Composition API 및 생태계 활용
+- `vibe-coding/`: AI 기반 코딩 도구 활용 및 개발 워크플로우 자동화
+- `haproxy/`: HAProxy 로드밸런싱, 프록시 설정 및 트래픽 관리
+- `redis/`: Redis 데이터 구조, 캐싱 전략 및 운영 노하우
 
 **문서 내부 양식**
 

@@ -51,6 +51,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="web">Web (전체 보기)</strong></summary>
+
+- [2026-03-08-MPA-Cross-document-View-Transitions-API](web/2026-03-08-MPA-Cross-document-View-Transitions-API.md)
 </details>
 <br>
 

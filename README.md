@@ -12,6 +12,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
+
+- [2026-03-08-GCP-n8n-무료-호스팅-구축](n8n/2026-03-08-GCP-n8n-무료-호스팅-구축.md)
 </details>
 <br>
 

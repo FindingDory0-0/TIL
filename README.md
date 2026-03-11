@@ -100,6 +100,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="infra">Infra (전체 보기)</strong></summary>
+
+- [2026-03-11-GCP-Always-Free-과금-방지-설정](infra/2026-03-11-GCP-Always-Free-과금-방지-설정.md)
 </details>
 
 ---

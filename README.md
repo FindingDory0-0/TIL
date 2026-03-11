@@ -95,6 +95,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="cloud">Cloud (전체 보기)</strong></summary>
+
+- [2026-03-11-GCP-Always-Free-과금-방지-VM-Manager-NIC-비활성화](cloud/2026-03-11-GCP-Always-Free-과금-방지-VM-Manager-NIC-비활성화.md)
 </details>
 <br>
 

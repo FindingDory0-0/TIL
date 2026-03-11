@@ -24,8 +24,6 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
-
-- [2026-03-10-Tmux를-활용한-멀티-에이전트-협업-환경-구축](ai-agent/2026-03-10-Tmux를-활용한-멀티-에이전트-협업-환경-구축.md)
 </details>
 <br>
 
@@ -80,6 +78,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="vibe-coding">Vibe Coding (전체 보기)</strong></summary>
+
+- [2026-03-10-Tmux를-활용한-멀티-에이전트-협업-환경-구축](vibe-coding/2026-03-10-Tmux를-활용한-멀티-에이전트-협업-환경-구축.md)
 </details>
 <br>
 
@@ -90,6 +90,11 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="redis">Redis (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
+  <summary style="font-size: 16px;"><strong id="cloud">Cloud (전체 보기)</strong></summary>
 </details>
 <br>
 
@@ -113,7 +118,7 @@
 
 - `n8n/`: 워크플로우 설계 및 노드 활용 전략
 - `python/`: 파이썬 문법 및 강의용 라이브러리 분석
-- `ai-agent/`: LLM 프롬프트 설계 및 에이전트 구축
+- `ai-agent/`: LLM 에이전트 서비스 구축 및 프롬프트 설계 (API, SDK 기반 에이전트 개발)
 - `mobile/`: 모바일 앱 개발 공통 패턴 및 크로스플랫폼 이슈
 - `android/`: Android SDK, Kotlin/Java 기반 네이티브 앱 개발
 - `ios/`: iOS SDK, Swift/SwiftUI 기반 네이티브 앱 개발
@@ -123,10 +128,11 @@
 - `spring/`: Spring Boot/Framework 기반 백엔드 개발
 - `react/`: React 컴포넌트 설계, 상태 관리 및 훅 활용
 - `vue/`: Vue.js 컴포넌트 설계, Composition API 및 생태계 활용
-- `vibe-coding/`: AI 기반 코딩 도구 활용 및 개발 워크플로우 자동화
+- `vibe-coding/`: AI 코딩 도구(Claude Code, Cursor 등) 활용 및 개발 워크플로우 자동화
 - `haproxy/`: HAProxy 로드밸런싱, 프록시 설정 및 트래픽 관리
 - `redis/`: Redis 데이터 구조, 캐싱 전략 및 운영 노하우
-- `infra/`: 서버 구축, 네트워크 설정, CI/CD 및 클라우드 인프라 운영
+- `cloud/`: Oracle Cloud, Google Cloud, AWS 등 클라우드 서비스 활용 및 아키텍처 설계
+- `infra/`: 서버 구축, 네트워크 설정, CI/CD 및 인프라 운영
 
 **문서 내부 양식**
 

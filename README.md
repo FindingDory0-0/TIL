@@ -79,6 +79,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="vibe-coding">Vibe Coding (전체 보기)</strong></summary>
 
+- [2026-03-13-Claude-Code-에이전트-분업-워크플로우-최적화](vibe-coding/2026-03-13-Claude-Code-에이전트-분업-워크플로우-최적화.md)
+
 - [2026-03-10-Tmux를-활용한-멀티-에이전트-협업-환경-구축](vibe-coding/2026-03-10-Tmux를-활용한-멀티-에이전트-협업-환경-구축.md)
 </details>
 <br>

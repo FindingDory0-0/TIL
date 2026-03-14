@@ -54,6 +54,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="web">Web (전체 보기)</strong></summary>
 
+- [2026-03-15-fnm-노드-버전-자동-관리](web/2026-03-15-fnm-노드-버전-자동-관리.md)
+
 - [2026-03-08-MPA-Cross-document-View-Transitions-API](web/2026-03-08-MPA-Cross-document-View-Transitions-API.md)
 </details>
 <br>

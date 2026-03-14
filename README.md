@@ -54,14 +54,14 @@
 <details>
   <summary style="font-size: 16px;"><strong id="web">Web (전체 보기)</strong></summary>
 
-- [2026-03-15-fnm-노드-버전-자동-관리](web/2026-03-15-fnm-노드-버전-자동-관리.md)
-
 - [2026-03-08-MPA-Cross-document-View-Transitions-API](web/2026-03-08-MPA-Cross-document-View-Transitions-API.md)
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="javascript">JavaScript (전체 보기)</strong></summary>
+
+- [2026-03-15-fnm-노드-버전-자동-관리](javascript/2026-03-15-fnm-노드-버전-자동-관리.md)
 </details>
 <br>
 
@@ -141,8 +141,8 @@
 - `android/`: Android SDK, Kotlin/Java 기반 네이티브 앱 개발
 - `ios/`: iOS SDK, Swift/SwiftUI 기반 네이티브 앱 개발
 - `java/`: Java 문법, JVM 동작 원리 및 라이브러리 활용
-- `web/`: 웹 개발 공통 주제 (HTTP, 브라우저, 성능 최적화 등)
-- `javascript/`: JavaScript/TypeScript 문법 및 런타임 활용
+- `web/`: 웹 플랫폼 공통 주제 (HTTP, 브라우저 API, 성능 최적화, HTML/CSS 등). Node.js 런타임 관련 내용은 제외.
+- `javascript/`: JavaScript/TypeScript 문법, Node.js 런타임 및 생태계 도구(npm, fnm, nvm 등) 활용
 - `spring/`: Spring Boot/Framework 기반 백엔드 개발
 - `react/`: React 컴포넌트 설계, 상태 관리 및 훅 활용
 - `vue/`: Vue.js 컴포넌트 설계, Composition API 및 생태계 활용

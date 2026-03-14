@@ -79,6 +79,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="vibe-coding">Vibe Coding (전체 보기)</strong></summary>
 
+- [2026-03-14-Claude-Code-자동-권한-승인-설정](vibe-coding/2026-03-14-Claude-Code-자동-권한-승인-설정.md)
+
 - [2026-03-14-tmux-Claude-Code-Option-Enter-줄바꿈-해결](vibe-coding/2026-03-14-tmux-Claude-Code-Option-Enter-줄바꿈-해결.md)
 
 - [2026-03-13-Claude-Code-에이전트-분업-워크플로우-최적화](vibe-coding/2026-03-13-Claude-Code-에이전트-분업-워크플로우-최적화.md)

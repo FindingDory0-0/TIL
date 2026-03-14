@@ -83,6 +83,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="vibe-coding">Vibe Coding (전체 보기)</strong></summary>
 
+- [2026-03-15-Claude-Code-CLAUDE-활용-가이드.md](vibe-coding/2026-03-15-Claude-Code-CLAUDE.md-활용-가이드.md)
+
 - [2026-03-15-Claude-CLI-비대화형-실행-전략](vibe-coding/2026-03-15-Claude-CLI-비대화형-실행-전략.md)
 
 - [2026-03-14-Claude-Code-자동-권한-승인-설정](vibe-coding/2026-03-14-Claude-Code-자동-권한-승인-설정.md)

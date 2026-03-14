@@ -134,14 +134,14 @@
 
 **디렉토리 구조**
 
-- `n8n/`: 워크플로우 설계 및 노드 활용 전략
-- `python/`: 파이썬 문법 및 강의용 라이브러리 분석
+- `n8n/`: 워크플로우 설계 및 노드 활용
+- `python/`: 파이썬 문법 및 라이브러리 분석
 - `ai-agent/`: LLM 에이전트 서비스 구축 및 프롬프트 설계 (API, SDK 기반 에이전트 개발)
-- `mobile/`: 모바일 앱 개발 공통 패턴 및 크로스플랫폼 이슈
+- `mobile/`: 크로스플랫폼(Flutter, React Native 등) 모바일 앱 개발 공통 패턴
 - `android/`: Android SDK, Kotlin/Java 기반 네이티브 앱 개발
 - `ios/`: iOS SDK, Swift/SwiftUI 기반 네이티브 앱 개발
 - `java/`: Java 문법, JVM 동작 원리 및 라이브러리 활용
-- `web/`: 웹 플랫폼 공통 주제 (HTTP, 브라우저 API, 성능 최적화, HTML/CSS 등). Node.js 런타임 관련 내용은 제외.
+- `web/`: 웹 플랫폼 공통 주제 (HTTP, 브라우저 API, 성능 최적화, HTML/CSS 등)
 - `javascript/`: JavaScript/TypeScript 문법, Node.js 런타임 및 생태계 도구(npm, fnm, nvm 등) 활용
 - `spring/`: Spring Boot/Framework 기반 백엔드 개발
 - `react/`: React 컴포넌트 설계, 상태 관리 및 훅 활용
@@ -149,8 +149,8 @@
 - `vibe-coding/`: AI 코딩 도구(Claude Code, Cursor 등) 활용 및 개발 워크플로우 자동화
 - `haproxy/`: HAProxy 로드밸런싱, 프록시 설정 및 트래픽 관리
 - `redis/`: Redis 데이터 구조, 캐싱 전략 및 운영 노하우
-- `cloud/`: Oracle Cloud, Google Cloud, AWS 등 클라우드 서비스 활용 및 아키텍처 설계
-- `infra/`: 서버 구축, 네트워크 설정, CI/CD 및 인프라 운영
+- `cloud/`: 클라우드 콘솔에서 수행하는 서비스 설정 및 관리 (GCE, Lambda, Cloud SQL, 과금 설정 등)
+- `infra/`: OS/서버 레벨 설정, 네트워크 구성, CI/CD 및 자체 인프라 운영
 
 **문서 내부 양식**
 

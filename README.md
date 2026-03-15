@@ -100,6 +100,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="haproxy">HAProxy (전체 보기)</strong></summary>
 
+- [2026-03-15-HAProxy-HTTP-헬스체크로-백엔드-장애-정확히-감지하기](haproxy/2026-03-15-HAProxy-HTTP-헬스체크로-백엔드-장애-정확히-감지하기.md)
+
 - [2026-03-15-HAProxy-URL-경로-매칭-전략-path_beg-vs-path_reg](haproxy/2026-03-15-HAProxy-URL-경로-매칭-전략-path_beg-vs-path_reg.md)
 </details>
 <br>

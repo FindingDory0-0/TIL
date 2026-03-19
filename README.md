@@ -113,6 +113,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="erp">ERP (전체 보기)</strong></summary>
+
+- [2026-03-19-MCP-서버로-Claude-Code와-SAP-ADT-연동하기](erp/2026-03-19-MCP-서버로-Claude-Code와-SAP-ADT-연동하기.md)
 </details>
 <br>
 

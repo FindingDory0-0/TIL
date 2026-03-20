@@ -112,6 +112,11 @@
 <br>
 
 <details>
+  <summary style="font-size: 16px;"><strong id="mac">Mac (전체 보기)</strong></summary>
+</details>
+<br>
+
+<details>
   <summary style="font-size: 16px;"><strong id="erp">ERP (전체 보기)</strong></summary>
 
 - [2026-03-19-MCP-서버로-Claude-Code와-SAP-ADT-연동하기](erp/2026-03-19-MCP-서버로-Claude-Code와-SAP-ADT-연동하기.md)
@@ -162,6 +167,7 @@
 - `vibe-coding/`: AI 코딩 도구(Claude Code, Cursor 등) 활용 및 개발 워크플로우 자동화
 - `haproxy/`: HAProxy 로드밸런싱, 프록시 설정 및 트래픽 관리
 - `redis/`: Redis 데이터 구조, 캐싱 전략 및 운영 노하우
+- `mac/`: macOS 시스템 설정, 단축키, 앱 활용 및 사용 팁
 - `erp/`: SAP 시스템 개발 및 운영 (ABAP, Fiori/UI5, ADT, MCP 연동 등)
 - `cloud/`: 클라우드 콘솔에서 수행하는 서비스 설정 및 관리 (GCE, Lambda, Cloud SQL, 과금 설정 등)
 - `infra/`: OS/서버 레벨 설정, 네트워크 구성, CI/CD 및 자체 인프라 운영
